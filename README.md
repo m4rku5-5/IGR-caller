@@ -34,4 +34,5 @@ The tool iterates over each read in the fastq file and executes the following pr
 
 ## Info
 
-The tool is part of the following publication: ...
+The tool is part of the following publication: Fuhren, J., Schwalbe, M., Boekhorst, J., Rösch, C., Schols, H. A., & Kleerebezem, M. (2024). Prebiotic utilisation provides Lactiplantibacillus plantarum a competitive advantage in vitro, but is not reflected by an increased intestinal fitness. Gut Microbes, 16(1), 2338946. https://doi.org/10.1080/19490976.2024.2338946
+
